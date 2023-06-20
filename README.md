@@ -1,1 +1,3 @@
 # proyecto2
+#APT UPDATE
+#APT UPGRADE
